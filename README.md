@@ -1,6 +1,8 @@
 # Glycemic Comparison Index (GCI): A Retrospective Analysis of its Prognostic Value in ICU Patients with AMI and Diabetes
 
-This repository contains the source code for the paper titled "Glycemic Comparison Index (GCI): A Retrospective Analysis of its Prognostic Value in ICU Patients with AMI and Diabetes". The code within this repository is designed to replicate the analyses conducted in the study using the MIMIC-IV database.
+This repository contains the source code for the paper titled "Glycemic Comparison Index (GCI): A Retrospective Analysis of its Prognostic Value in ICU Patients with AMI and Diabetes" (doi:10.1186/s12902-025-01907-2). The code within this repository is designed to replicate the analyses conducted in the study using the MIMIC-IV database.
+
+https://pubmed.ncbi.nlm.nih.gov/40140826/
 
 ## Prerequisites
 
